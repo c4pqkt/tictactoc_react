@@ -13,6 +13,8 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+
+    <h1>Next module is the final aplication</h1>
     <App2 />
     <br />
     <br />
